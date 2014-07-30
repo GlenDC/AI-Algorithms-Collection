@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/nuclearcookie/AI-Algorithm-Collection/implementation/window"
+	"github.com/NuclearCookie/AI-Algorithms-Collection/implementation/window"
 )
 
 func main() {
