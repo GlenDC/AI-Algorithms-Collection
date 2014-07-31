@@ -1,11 +1,10 @@
 package window
 
-/*
 import (
 	"fmt"
-	"github.com/mattn/go-gtk/glib"
-	"github.com/mattn/go-gtk/gtk"
-)*/
+	/*"github.com/mattn/go-gtk/glib"
+	"github.com/mattn/go-gtk/gtk"*/
+)
 
 func Init(title string) {
 	/*gtk.Init(nil)
@@ -17,4 +16,5 @@ func Init(title string) {
 		fmt.Println("got destroy!", ctx.Data().(string))
 		gtk.MainQuit()
 	}, "foo")*/
+	fmt.Println(title)
 }
