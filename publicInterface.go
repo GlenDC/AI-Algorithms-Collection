@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	window.Init("Test")
+	window.Init("TestWindow")
 }
