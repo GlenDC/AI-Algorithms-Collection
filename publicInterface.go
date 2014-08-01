@@ -1,3 +1,5 @@
+//use go build -o publicInterface && ./publicInterface
+
 package main
 
 import (
